@@ -16,3 +16,10 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | NO | COURSE | NOTE |
 | ----------- | ----------- |----------- |
 | 1 | [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering?specialization=ibm-data-engineer) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/01-Introduction%20to%20Data%20Engineering%20note.md) |
+
+
+## Contact me :  
+
+**email:**  romanetawfikwork@gmail.com
+
+**Linkedin:** https://www.linkedin.com/in/de-romane/
