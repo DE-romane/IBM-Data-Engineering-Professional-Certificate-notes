@@ -8,4 +8,4 @@ Develop a comprehensive understanding of NoSQL and Big Data by working with plat
 
 Execute Extraction, Transformation, and Loading (ETL) processes and Data Pipelines using tools like Bash, Airflow, and Kafka. Additionally, learn to architect, populate, and deploy Data Warehouses while creating Business Intelligence (BI) reports and interactive dashboards.
 
-for more information [IBM Data Engineering Professional Certificate]([https://www.example.com](https://www.coursera.org/professional-certificates/ibm-data-engineer)https://www.coursera.org/professional-certificates/ibm-data-engineer)
+for more information [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
