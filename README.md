@@ -1,11 +1,18 @@
 # IBM-Data-Engineering-Professional-Certificate-notes
+Prepare for a career in the high-growth field of data engineering. In this program, you’ll learn in-demand skills like Python, SQL, and Databases to get job-ready in less than 5 months.
 
-Acquire the latest and most essential practical competencies and insights utilized by data engineers in their everyday responsibilities.
+Data engineering is building systems to gather data, process and organize raw data into usable information, and manage data. The work data engineers do provides the foundational information that data scientists and business intelligence (BI) analysts use to make recommendations and decisions.
 
-Gain expertise in crafting, designing, and overseeing relational databases while applying crucial database administration (DBA) principles to various RDBMSs like MySQL, PostgreSQL, and IBM Db2.
+This program will teach you the foundational data engineering skills employers are seeking for entry level data engineering roles, including Python, one of the most widely used programming languages. You’ll also master SQL, RDBMS, ETL, Data Warehousing, NoSQL, Big Data, and Spark with hands-on labs and projects.
 
-Develop a comprehensive understanding of NoSQL and Big Data by working with platforms such as MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, and Spark Streaming.
+You’ll learn to use Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You’ll also work with Relational Databases (RDBMS) and query data using SQL statements and use NoSQL databases as well as unstructured data. 
 
-Execute Extraction, Transformation, and Loading (ETL) processes and Data Pipelines using tools like Bash, Airflow, and Kafka. Additionally, learn to architect, populate, and deploy Data Warehouses while creating Business Intelligence (BI) reports and interactive dashboards.
+
 
 for more information [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+
+## Professional Certificate - 13 course series
+
+| NO | COURSE | NOTE |
+| ----------- | ----------- |----------- |
+| 1 | [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering?specialization=ibm-data-engineer) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/01-Introduction%20to%20Data%20Engineering%20note.md) |
