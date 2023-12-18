@@ -19,7 +19,7 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 2 | [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/2-Python%20for%20Data%20Science%2C%20AI%20%26%20Development.md) | [Link](https://coursera.org/share/5c600fefbcb49065557ab39423c40887) |
 | 3 | Project: Extract, Transform, and Load Data using Python | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Project%20Extract%2C%20Transform%2C%20and%20Load%20Data%20using%20Python) | |
 | 3 | Project: Web Scraping using Python | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Webscraping%20by%20python) | |
-
+| 3 | Project: Accessing Databases using Python Script | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Accessing%20Databases%20using%20Python%20Script) | |
 ## Contact me :  
 
 **email:**  romanetawfikwork@gmail.com
