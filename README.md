@@ -21,6 +21,10 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 3 | Project: Web Scraping using Python | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Webscraping%20by%20python) | |
 | 3 | Project: Accessing Databases using Python Script | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Accessing%20Databases%20using%20Python%20Script) | |
 | 3 | Project: Extract, Transform and Load GDP Data | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Extract%2C%20Transfrom%20and%20Load%20GDP%20Data) | |
+| 3 | Final Project: Acquiring and Processing Information on the World's Largest Banks
+ | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Project%20Acquiring%20and%20Processing%20Information%20on%20the%20World's%20Largest%20Banks) | |
+
+
 ## Contact me :  
 
 **email:**  romanetawfikwork@gmail.com
