@@ -1,5 +1,6 @@
 ## W1 ❉ Relational Databases Concepts
 📓**Fundamental Relational Database Concepts**
+
 ➡️ **Review of Data Fundamentals**
 overview of data types, storage solutions, file formats, and systems used to manage and analyze data in modern businesses.
 
