@@ -24,7 +24,8 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 3 | Final Project: Acquiring and Processing Information on the World's Largest Banks | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Project%20Acquiring%20and%20Processing%20Information%20on%20the%20World's%20Largest%20Banks) |  |
 | 4 | [Introduction to Relational Databases (RDBMS)](https://www.coursera.org/learn/introduction-to-relational-databases) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/4-Introduction%20to%20Relational%20Databases%20(RDBMS).md) | [Link](https://coursera.org/share/d963abb266f2ae06a54a01dc65c7a0d1) |
 | 5 | [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/5-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.md) | [Link](https://coursera.org/share/81993f235615f46190cc9a922f1160a1) |
-
+| 6 | [Project(bash): Historical Weather Forecast Comparison to Actuals] | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Historical%20Weather%20Forecast%20Comparison%20to%20Actuals) |  |
+| 6 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/6-Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.md) | [Link](https://www.coursera.org/account/accomplishments/verify/9KHNQPETDHYE) |
 
 ## Contact me :  
 
