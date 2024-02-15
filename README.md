@@ -26,6 +26,7 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 5 | [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/5-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.md) | [Link](https://coursera.org/share/81993f235615f46190cc9a922f1160a1) |
 | 6 | [Project(bash): Historical Weather Forecast Comparison to Actuals] | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Historical%20Weather%20Forecast%20Comparison%20to%20Actuals) |  |
 | 6 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/6-Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.md) | [Link](https://www.coursera.org/account/accomplishments/verify/9KHNQPETDHYE) |
+| 7 | [Relational Database Administration (DBA)](https://www.coursera.org/learn/relational-database-administration) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/7-Relational%20Database%20Administration%20(DBA).md) | [Link](https://coursera.org/share/cbe8f52002ff5dd17d7e5bef09e32881) |
 
 ## Contact me :  
 
