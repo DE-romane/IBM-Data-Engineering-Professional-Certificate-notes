@@ -27,6 +27,8 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 6 | [Project(bash): Historical Weather Forecast Comparison to Actuals] | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/Historical%20Weather%20Forecast%20Comparison%20to%20Actuals) |  |
 | 6 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/6-Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.md) | [Link](https://www.coursera.org/account/accomplishments/verify/9KHNQPETDHYE) |
 | 7 | [Relational Database Administration (DBA)](https://www.coursera.org/learn/relational-database-administration) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/7-Relational%20Database%20Administration%20(DBA).md) | [Link](https://coursera.org/share/cbe8f52002ff5dd17d7e5bef09e32881) |
+| 8 | [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/8-ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka.md) | [Link](https://coursera.org/share/47dd3ec46c22089dfcc5ba6fdd595c51) |
+
 
 ## Contact me :  
 
