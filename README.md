@@ -29,7 +29,7 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 7 | [Relational Database Administration (DBA)](https://www.coursera.org/learn/relational-database-administration) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/7-Relational%20Database%20Administration%20(DBA).md) | [Link](https://coursera.org/share/cbe8f52002ff5dd17d7e5bef09e32881) |
 | 8 | [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/8-ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka.md) | [Link](https://coursera.org/share/47dd3ec46c22089dfcc5ba6fdd595c51) |
 | 9 | [Getting Started with Data Warehousing and BI Analytics](https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/9-Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics.md) | [Link](https://coursera.org/share/ea676300e53ecd6236d8ccfec31d7d71) |
-
+| 10 | [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/10-Introduction%20to%20NoSQL%20Databases.md) | [Link](https://coursera.org/share/bb3c3369b37224e9484443e7cb817477) |
 
 ---
 ## Contact me :  
