@@ -31,7 +31,9 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 9 | [Getting Started with Data Warehousing and BI Analytics](https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/9-Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics.md) | [Link](https://coursera.org/share/ea676300e53ecd6236d8ccfec31d7d71) |
 | 10 | [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/10-Introduction%20to%20NoSQL%20Databases.md) | [Link](https://coursera.org/share/bb3c3369b37224e9484443e7cb817477) |
 | 11 | [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/11-Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop.md) | [Link](https://coursera.org/share/e45fc51ef040145d572c7dfd0e36de12) |
-| 12 | [Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/12-Machine%20Learning%20with%20Apache%20Spark.md) | [Link]() |
+| 12 | [Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/12-Machine%20Learning%20with%20Apache%20Spark.md) | [Link](https://coursera.org/share/1e4417f42434cdfc80bbe107be570e9c) |
+| 12 | [Final Project: Build a Machine Learning Pipeline for Airfoil Noise Prediction] | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/Final%20Project%20Build%20a%20Machine%20Learning%20Pipeline%20for%20Airfoil%20Noise%20Prediction.ipynb) | |
+
 
 ---
 ## Contact me :  
