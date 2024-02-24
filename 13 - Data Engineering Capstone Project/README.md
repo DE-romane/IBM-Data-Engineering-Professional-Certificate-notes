@@ -5,7 +5,7 @@ This document introduces you to the data platform architecture of an ecommerce c
 
 SoftCart uses a hybrid architecture, with some of its databases on premises and some on cloud.
 
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/13%20-%20Data%20Engineering%20Capstone%20Project/data_platform_architecture.png)
+![alt text](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/13%20-%20Data%20Engineering%20Capstone%20Project/data_platform_architecture.png)
 
 SoftCart's online presence is primarily through its website, which customers access using a variety of devices like laptops, mobiles and tablets.
 
