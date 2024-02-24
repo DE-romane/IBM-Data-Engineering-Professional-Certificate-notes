@@ -33,9 +33,11 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 11 | [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/11-Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop.md) | [Link](https://coursera.org/share/e45fc51ef040145d572c7dfd0e36de12) |
 | 12 | [Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/12-Machine%20Learning%20with%20Apache%20Spark.md) | [Link](https://coursera.org/share/1e4417f42434cdfc80bbe107be570e9c) |
 | 12 | [Final Project: Build a Machine Learning Pipeline for Airfoil Noise Prediction] | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/Final%20Project%20Build%20a%20Machine%20Learning%20Pipeline%20for%20Airfoil%20Noise%20Prediction.ipynb) | |
-
+| 13 | [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/13%20-%20Data%20Engineering%20Capstone%20Project) | [Link](https://coursera.org/share/5815f1c463073c266427ea8e490a4303) |
 
 ---
+![alt text](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/img/IBM%20Data%20Engineering.jpg)
+
 ## Contact me :  
 
 **email:**  romanetawfikwork@gmail.com
