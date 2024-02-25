@@ -1,11 +1,52 @@
 # IBM-Data-Engineering-Professional-Certificate-notes
-Prepare for a career in the high-growth field of data engineering. In this program, you’ll learn in-demand skills like Python, SQL, and Databases to get job-ready in less than 5 months.
 
-Data engineering is building systems to gather data, process and organize raw data into usable information, and manage data. The work data engineers do provides the foundational information that data scientists and business intelligence (BI) analysts use to make recommendations and decisions.
+I am thrilled to share my journey of completing the IBM Data Engineering Professional Certificate. This program has been an incredible learning experience, providing me with practical skills and knowledge essential for a career in data engineering.
 
-This program will teach you the foundational data engineering skills employers are seeking for entry level data engineering roles, including Python, one of the most widely used programming languages. You’ll also master SQL, RDBMS, ETL, Data Warehousing, NoSQL, Big Data, and Spark with hands-on labs and projects.
+## Program Overview
 
-You’ll learn to use Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You’ll also work with Relational Databases (RDBMS) and query data using SQL statements and use NoSQL databases as well as unstructured data. 
+Throughout the IBM Data Engineering Professional Certificate, I delved into various aspects of data engineering:
+
+- **Relational Databases**: I learned to create, design, and manage relational databases, applying concepts of database administration to RDBMSs like MySQL, PostgreSQL, and IBM Db2.
+  
+- **NoSQL and Big Data Technologies**: The program introduced me to NoSQL databases such as MongoDB, Cassandra, Cloudant, and Big Data technologies including Hadoop, Apache Spark, Spark SQL, Spark ML, and Spark Streaming.
+  
+- **ETL and Data Pipelines**: I gained hands-on experience in implementing ETL processes and building data pipelines using Bash, Airflow, and Kafka.
+  
+- **Data Warehousing**: I learned to architect, populate, and deploy data warehouses, along with creating BI reports and interactive dashboards.
+
+## Skills Acquired
+
+Throughout the program, I developed proficiency in a wide range of skills, including:
+
+- **Programming**: I honed my skills in Python, particularly in libraries such as Numpy and Pandas, and learned web scraping techniques.
+  
+- **Database Management**: I gained expertise in SQL, database design, architecture, security, and administration for both relational and NoSQL databases.
+  
+- **Big Data Technologies**: I worked extensively with Apache Spark, Spark SQL, Spark ML, Spark Streaming, and Hadoop.
+  
+- **Shell Scripting**: I learned to write Bash scripts for various tasks in a Unix/Linux environment.
+  
+- **Version Control**: I utilized Git and GitHub for collaborative development and version control.
+
+## Projects Highlights
+
+Some of the exciting projects I completed as part of the certificate program include:
+
+- Designing a relational database to optimize operations for a coffee franchise.
+  
+- Querying various datasets, including census, crime, and school demographic data, using SQL.
+  
+- Writing a Bash shell script on Linux for file backups.
+  
+- Setting up, testing, and optimizing a data platform containing MySQL, PostgreSQL, and IBM Db2 databases.
+  
+- Analyzing road traffic data, performing ETL, and creating a pipeline using Airflow and Kafka.
+  
+- Designing and implementing a data warehouse for a solid-waste management company.
+  
+- Working with NoSQL databases like MongoDB, Cassandra, and Cloudant, and analyzing data within them.
+  
+- Training a machine learning model using Apache Spark.
 
 
 
@@ -36,6 +77,11 @@ for more information [IBM Data Engineering Professional Certificate](https://www
 | 13 | [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project) | [LINK](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/tree/main/13%20-%20Data%20Engineering%20Capstone%20Project) | [Link](https://coursera.org/share/5815f1c463073c266427ea8e490a4303) |
 
 ---
+**coursera Link :**
+
+[IBM Data Engineering Professional Certificate](https://coursera.org/share/5815f1c463073c266427ea8e490a4303)
+
+
 ![alt text](https://github.com/DE-romane/IBM-Data-Engineering-Professional-Certificate-notes/blob/main/img/IBM%20Data%20Engineering.jpg)
 
 ## Contact me :  
